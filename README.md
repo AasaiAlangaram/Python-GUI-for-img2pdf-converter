@@ -4,7 +4,7 @@ Run this PYQt Application to convert your image files into pdf and Merge single 
 
 ## Why do we need this?
 
-The answer is quite straightforward, no one wants to upload their confedential documents into unknown converter sites.
+The answer is quite straightforward, no one likes to upload their confedential documents into unknown converter sites.
 
 ### Packages Used:
 
