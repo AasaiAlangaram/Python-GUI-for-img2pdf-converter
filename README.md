@@ -1,4 +1,4 @@
-# Image to PDF Converter & PDF Merger GUI
+## Image to PDF Converter & PDF Merger GUI
 
 Run this PYQt Application to convert your image files into pdf and Merge single pdf files into One PDF File.
 
